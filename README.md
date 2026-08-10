@@ -70,22 +70,31 @@ Finally,
 
 ### Examples
 
+<p align="center">
+
 Full flow — create tables, insert rows, then join:
+
 <img src="assets/screenshots/5.png" width="80%">
-<br>
+
+<br><br>
 
 Groupby with aggregation (count, avg):
+
 <img src="assets/screenshots/4.png" width="80%">
-<br>
+
+<br><br>
 
 Having clause on a grouped result:
+
 <img src="assets/screenshots/2.png" width="80%">
-<br>
-<br>
+
+<br><br>
 
 Sortby descending:
+
 <img src="assets/screenshots/1.png" width="80%">
-<br>
+
+</p>
 
 ### References:
 
