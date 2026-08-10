@@ -83,6 +83,7 @@ Having clause on a grouped result:
 
 Sortby descending:
 <img src="assets/screenshots/1.png" width="80%">
+<br>
 
 ### References:
 
