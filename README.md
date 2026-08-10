@@ -103,11 +103,11 @@ Sortby descending:
 
 Mem usage (When loading entire table in memory):
 
-![image](https://github.com/Rudra-23/BatchDB/assets/54005905/73ec9f9f-3481-4d1c-9508-f19c7872c575)
+![image](assets/screenshots/mem1.png)
 
 Mem usage (When loading same table with BatchDB):
 
-![image](https://github.com/Rudra-23/BatchDB/assets/54005905/d8ab3e10-486e-42fe-8d19-4de82499cc58)
+![image](assets/screenshots/mem2.png)
 
 Check Assets in tests for more details.
 
