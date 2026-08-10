@@ -81,6 +81,7 @@ Groupby with aggregation (count, avg):
 Having clause on a grouped result:
 <img src="assets/screenshots/2.png" width="80%">
 <br>
+<br>
 
 Sortby descending:
 <img src="assets/screenshots/1.png" width="80%">
