@@ -1,0 +1,37 @@
+[
+    {
+        "table_name": "student",
+        "columns": {
+            "id": "int",
+            "name": "str",
+            "age": "int",
+            "gpa": "float"
+        }
+    },
+    {
+        "table_name": "athlete",
+        "columns": {
+            "id": "int",
+            "sport": "str",
+            "weight": "int"
+        }
+    },
+    {
+        "table_name": "credits",
+        "columns": {
+            "movie_id": "int",
+            "cast": "str",
+            "crew": "str",
+            "cast_size": "int"
+        }
+    },
+    {
+        "table_name": "movies",
+        "columns": {
+            "id": "int",
+            "title": "str",
+            "runtime": "float",
+            "genre": "str"
+        }
+    }
+]
