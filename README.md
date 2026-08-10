@@ -6,6 +6,8 @@ This document outlines the available commands for interacting with a simple data
 
 To use the database, install required libraries via  `pip install -r requirements.txt`, then run the application using `python terminal.py`.
 
+> **Note:** Tested on Python 3.14 with `pandas>=2.2.3`. If you hit a build error installing pandas on Windows (a Meson/Cython compile failure), it's usually because your Python version is too new for an older pinned pandas release — make sure `requirements.txt` uses `pandas>=2.2.3` rather than an exact old pin like `2.1.2`.
+
 ### Architecture
 
 ![Flow Diagram](assets/screenshots/flowdiagram.png)
