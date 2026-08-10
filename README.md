@@ -8,7 +8,7 @@ To use the database, install required libraries via  `pip install -r requirement
 
 ### Architecture
 
-![Flow Diagram](assets/screenshots/flowdiagram.png.png)
+![Flow Diagram](assets/screenshots/flowdiagram.png)
 
 ### Commands
 
