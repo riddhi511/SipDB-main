@@ -73,6 +73,7 @@ Finally,
 Full flow — create tables, insert rows, then join:
 <img src="assets/screenshots/5.png" width="80%">
 <br>
+
 Groupby with aggregation (count, avg):
 <img src="assets/screenshots/4.png" width="80%">
 <br>
