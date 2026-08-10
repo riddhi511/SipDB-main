@@ -8,7 +8,7 @@ To use the database, install required libraries via  `pip install -r requirement
 
 ### Architecture
 
-![Flow Diagram](https://github.com/Rudra-23/BatchDB/assets/54005905/67fb20c9-58d1-41f6-b481-421fa3d75f1a)
+![Flow Diagram](assets/screenshots/flowdiagram.png.png)
 
 ### Commands
 
@@ -70,13 +70,19 @@ Finally,
 
 ### Examples
 
-<img src="https://github.com/Rudra-23/BatchDB/assets/54005905/17a98221-7a86-4191-b59c-284fbb2cba27" width="80%">
+Full flow — create tables, insert rows, then join:
+<img src="assets/screenshots/5.png" width="80%">
 <br>
-<img src="https://github.com/Rudra-23/BatchDB/assets/54005905/f7351b4b-2b95-437c-8b21-bc0e31ff2ba4" width="80%">
+Groupby with aggregation (count, avg):
+<img src="assets/screenshots/4.png" width="80%">
 <br>
-<img src="https://github.com/Rudra-23/BatchDB/assets/54005905/ebad28bd-c68c-4936-9beb-a3ba22c42f00" width="80%">
+
+Having clause on a grouped result:
+<img src="assets/screenshots/2.png" width="80%">
 <br>
-<img src="https://github.com/Rudra-23/BatchDB/assets/54005905/00090d39-c714-4f63-911a-d4d21d02dd0c" width="80%">
+
+Sortby descending:
+<img src="assets/screenshots/1.png" width="80%">
 
 ### References:
 
